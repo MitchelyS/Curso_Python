@@ -1,0 +1,6 @@
+print("Digite o primeiro numero.")
+num01 = int(input())
+print("Digite o segundo valor a ser somado.")
+num02 = int(input())
+print("a soma dos dois numeros é:")
+print(num01 + num02)
